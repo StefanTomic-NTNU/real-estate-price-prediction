@@ -1,4 +1,4 @@
-# Real-Estate-Price-Prediction
+# Real Estate Price Prediction
 
 Project performed fall 2021 for the class _Machine Learning_ at _NTNU_.
 
